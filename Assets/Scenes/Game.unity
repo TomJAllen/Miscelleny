@@ -670,9 +670,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 484155533}
     m_Modifications:
+    - target: {fileID: 2332096930135247091, guid: 4f369b433f77c4412b5c093da0e9b39b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: eac0b7ed2e83a4ce1b375266419aa6c3, type: 3}
+    - target: {fileID: 2332096930135247091, guid: 4f369b433f77c4412b5c093da0e9b39b, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2816835406353982651, guid: 4f369b433f77c4412b5c093da0e9b39b, type: 3}
       propertyPath: m_Name
       value: AnswerButton (0)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6772996975154762811, guid: 4f369b433f77c4412b5c093da0e9b39b, type: 3}
+      propertyPath: m_Interactable
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6772996975154762811, guid: 4f369b433f77c4412b5c093da0e9b39b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -1099,9 +1111,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 484155533}
     m_Modifications:
+    - target: {fileID: 2332096930135247091, guid: 4f369b433f77c4412b5c093da0e9b39b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: eac0b7ed2e83a4ce1b375266419aa6c3, type: 3}
+    - target: {fileID: 2332096930135247091, guid: 4f369b433f77c4412b5c093da0e9b39b, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2816835406353982651, guid: 4f369b433f77c4412b5c093da0e9b39b, type: 3}
       propertyPath: m_Name
       value: AnswerButton (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6772996975154762811, guid: 4f369b433f77c4412b5c093da0e9b39b, type: 3}
+      propertyPath: m_Interactable
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6772996975154762811, guid: 4f369b433f77c4412b5c093da0e9b39b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -1314,9 +1338,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 484155533}
     m_Modifications:
+    - target: {fileID: 2332096930135247091, guid: 4f369b433f77c4412b5c093da0e9b39b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: eac0b7ed2e83a4ce1b375266419aa6c3, type: 3}
+    - target: {fileID: 2332096930135247091, guid: 4f369b433f77c4412b5c093da0e9b39b, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2816835406353982651, guid: 4f369b433f77c4412b5c093da0e9b39b, type: 3}
       propertyPath: m_Name
       value: AnswerButton (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6772996975154762811, guid: 4f369b433f77c4412b5c093da0e9b39b, type: 3}
+      propertyPath: m_Interactable
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6772996975154762811, guid: 4f369b433f77c4412b5c093da0e9b39b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -1511,9 +1547,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 484155533}
     m_Modifications:
+    - target: {fileID: 2332096930135247091, guid: 4f369b433f77c4412b5c093da0e9b39b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: eac0b7ed2e83a4ce1b375266419aa6c3, type: 3}
+    - target: {fileID: 2332096930135247091, guid: 4f369b433f77c4412b5c093da0e9b39b, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2816835406353982651, guid: 4f369b433f77c4412b5c093da0e9b39b, type: 3}
       propertyPath: m_Name
       value: AnswerButton (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6772996975154762811, guid: 4f369b433f77c4412b5c093da0e9b39b, type: 3}
+      propertyPath: m_Interactable
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6772996975154762811, guid: 4f369b433f77c4412b5c093da0e9b39b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
