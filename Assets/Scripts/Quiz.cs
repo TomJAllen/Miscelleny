@@ -30,7 +30,7 @@ public class Quiz : MonoBehaviour
 
   [Header("Progress Bar")]
   [SerializeField] Slider progressBar;
-  public bool isComplete;
+  public bool isComplete = false;
 
 
 
